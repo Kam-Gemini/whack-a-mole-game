@@ -1,0 +1,38 @@
+.controls {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 2rem;
+}
+.current-game {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 2rem;
+}
+
+section {
+    display: grid;
+    grid-template-columns: repeat(5, 120px);
+    justify-content: center;
+}
+
+.cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: related;
+    width: 120px;
+    height: 120px;
+    border: 1px solid lightgray;
+}
+
+button {
+    box-sizing: border-box;
+}
+
+.mole {
+    background-image: url("../assets/mole.png");
+    background-position: center;
+    background-size: cover;
+}

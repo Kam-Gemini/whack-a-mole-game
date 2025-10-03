@@ -29,4 +29,7 @@ This is a group task, only one person needs to share their screen and pseudocode
 * See if you can spot any bugs with your solution, and fix those.
 * Display the score on the screen (extra challenge: check out localStorage even after the page has been refreshed, see if you can save a high score)
 * Add a reset button
-* A bit more tricky: Every time a mole is clicked, slightly decrease the time the next mole takes to appear. 
+* A bit more tricky: Every time a mole is clicked, slightly decrease the time the next mole takes to appear.
+
+**Deployment Link:**
+https://kam-gemini.github.io/whack-a-mole-game/
